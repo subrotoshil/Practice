@@ -1,0 +1,26 @@
+p
+{
+    text-align: right;
+}
+i{
+    text-align: left;
+}
+h4{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+    color: blueviolet;
+    text-decoration: line-through;
+}
+h3{
+    text-align: left;
+    color: red;
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: overline;
+}
